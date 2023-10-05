@@ -15,7 +15,7 @@ struct node{
   // string AS a name
   string name;
   string parent;
-  // can have multiple child no one child policy here fuck cpp
+  // can have multiple child
   vector<node> child;
 };
 
